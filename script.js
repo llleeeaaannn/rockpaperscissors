@@ -137,5 +137,3 @@ function clearGame() {
   playAgain[0].classList.toggle('show');
   showButtons();
 }
-
-// Function to show what turn it is
