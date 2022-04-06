@@ -1,0 +1,20 @@
+.choicebtn {
+  background-color: red;
+  font-size: 20px;
+}
+
+.rpsbuttons {
+    display: none;
+}
+
+.playAgain {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
