@@ -1,6 +1,15 @@
 .choicebtn {
-  background-color: red;
+  background-color: #e8ede6;
+  border: 3px #6fdb51 solid;
+  border-radius: 5px;
   font-size: 20px;
+  width: 33%;
+  height: 200px;
+}
+
+.buttonsflex {
+  display: flex;
+
 }
 
 .rpsbuttons {
